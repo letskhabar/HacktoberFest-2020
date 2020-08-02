@@ -1,3 +1,5 @@
+![HacktoberFest-2020](./img/hf.png)
+
 # HacktoberFest-2020
 Open source is changing the world - one pull request at a time.  Join our global community for the yearly celebration of open source software!
 
@@ -31,3 +33,5 @@ If you want the detailed guide on how to create a pull request then you may clic
 ## What to contribute?
 
 * You can resolve any open issues or add some exciting features to this repository!!!
+
+## Happy Hacking
