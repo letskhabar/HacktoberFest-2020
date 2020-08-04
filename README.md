@@ -17,7 +17,9 @@ git clone https://github.com/your-username/HacktoberFest-2020.git
 git checkout -b branch-name
 ```
 
-* Make the necessary changes in your local copy
+* Add your profile picture in `img` folder
+* image should be square and name of image should be username.png/jpg/jpeg/gif
+* add `["Your Name", "Image URL(./img/username.png)", "Bio", "Your Github Link"],` in `user.js`.
 * Commit and push
 
 ```bash
