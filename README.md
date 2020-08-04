@@ -1,4 +1,4 @@
-![HacktoberFest-2020](./img/hf.png)
+[![HacktoberFest-2020](./img/hf.png)](https://hack.letskhabar.com/)
 
 # HacktoberFest-2020
 Open source is changing the world - one pull request at a time.  Join our global community for the yearly celebration of open source software!
@@ -11,7 +11,7 @@ Open source is changing the world - one pull request at a time.  Join our global
 git clone https://github.com/your-username/HacktoberFest-2020.git
 ```
 * Open HacktoberFest-2020 Folder in your Favorite text editor
-* Create a branch
+* Create a branch  // optional
 
 ```bash
 git checkout -b branch-name
@@ -32,8 +32,7 @@ git push origin branch-name
 
 If you want the detailed guide on how to create a pull request then you may click [here](https://www.digitalocean.com/community/tutorials/how-to-create-a-pull-request-on-github) on how to create a pull request.
 
-## What to contribute?
-
+* And congratulations! You're all done. Have fun!
 * You can resolve any open issues or add some exciting features to this repository!!!
 
 ## Happy Hacking
