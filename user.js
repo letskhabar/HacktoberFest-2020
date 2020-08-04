@@ -4,12 +4,38 @@ let cards = [
     //  ["Your Name", "Image URL(./img/username.png)", "Bio", "Your Github Link"],
     //  Bio should no longer than 50 characters, avoid using quotes(") to guarantee the format remains the same.
 
-    
+
     ["Your Name", "./img/username.png", "Your Bio", "https://github.com/letskhabar"],
     ["Your Name", "./img/username.png", "Your Bio", "https://github.com/letskhabar"],
     ["Your Name", "./img/username.png", "Your Bio", "https://github.com/letskhabar"],
     ["Letskhabar", "./img/letskhabar.png", "We make IT happens", "https://github.com/letskhabar"],
+    ["Vimal Kumar", "./img/vimalverma558.jpg", "Web Developer and designer", "https://github.com/vimalverma558"],
+
+
+    
 ]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// +--------------------------------------------------------------------------------+
+// +                                                                                +
+// +                  YOU DO NOT NEED TO CHANGE ANYTHING BELOW THIS                 +
+// +                                                                                +
+// +--------------------------------------------------------------------------------+
+
 
 let contents = [];
 Shuffle(cards).forEach((c) => {
