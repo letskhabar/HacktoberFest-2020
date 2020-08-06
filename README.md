@@ -36,3 +36,5 @@ If you want the detailed guide on how to create a pull request then you may clic
 * You can resolve any open issues or add some exciting features to this repository!!!
 
 ## Happy Hacking
+
+[![HacktoberFest-2020](./img/website.jpg)](https://hack.letskhabar.com/)
