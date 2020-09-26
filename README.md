@@ -32,6 +32,14 @@ git push origin branch-name
 
 If you want the detailed guide on how to create a pull request then you may click [here](https://www.digitalocean.com/community/tutorials/how-to-create-a-pull-request-on-github) on how to create a pull request.
 
+* Code Reviews
+```bash
+LGTM # Looks Good To Me 
+CIAL # Code Is A Liability 
+WIP # work in progress, do not merge yet
+ACK # acknowledgement, i.e. agreed/accepted change
+```
+
 * And congratulations! You're all done. Have fun!
 * You can resolve any open issues or add some exciting features to this repository!!!
 
