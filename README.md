@@ -1,5 +1,10 @@
 [![HacktoberFest-2020](./img/hf.png)](https://hack.letskhabar.com/)
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/637c7b73-3a80-4be3-bae6-2dd7646fe561/deploy-status)](https://app.netlify.com/sites/hacktober-fest/deploys)
+[![Fork](https://img.shields.io/github/forks/letskhabar/HacktoberFest-2020?label=fork&style=social)](https://github.com/letskhabar/HacktoberFest-2020/fork)
+[![Star](https://img.shields.io/github/stars/letskhabar/HacktoberFest-2020?style=social)](https://github.com/letskhabar/HacktoberFest-2020/stargazers)
+[![watch](https://img.shields.io/github/watchers/letskhabar/HacktoberFest-2020?style=social)](https://github.com/letskhabar/HacktoberFest-2020/watchers)
+
 # HacktoberFest-2020
 Open source is changing the world - one pull request at a time.  Join our global community for the yearly celebration of open source software!
 
