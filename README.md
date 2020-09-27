@@ -16,7 +16,7 @@ Open source is changing the world - one pull request at a time.  Join our global
 git clone https://github.com/your-username/HacktoberFest-2020.git
 ```
 * Open HacktoberFest-2020 Folder in your Favorite text editor
-* Create a branch  // optional
+* Create a branch
 
 ```bash
 git checkout -b branch-name
