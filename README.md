@@ -50,4 +50,8 @@ ACK # acknowledgement, i.e. agreed/accepted change
 
 ## Happy Hacking
 
-[![HacktoberFest-2020](./img/website.jpg)](https://hack.letskhabar.com/)
+<a href="https://github.com/letskhabar/HacktoberFest-2020/graphs/contributors">
+  <img src="https://contributors-img.web.app/image?repo=letskhabar/HacktoberFest-2020" />
+</a>
+
+Made with [contributors-img](https://contributors-img.web.app).
