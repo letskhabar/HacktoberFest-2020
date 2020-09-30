@@ -8,6 +8,9 @@
 # HacktoberFest-2020
 Open source is changing the world - one pull request at a time.  Join our global community for the yearly celebration of open source software!
 
+## What is Hacktoberfest?
+A month-long celebration from October 1st - 31st sponsored by [Digital Ocean](https://hacktoberfest.digitalocean.com/) and GitHub to get people involved in Open Source. Create your very first pull request to any public repository on GitHub and contribute to the open source developer community.
+[https://hacktoberfest.digitalocean.com/](https://hacktoberfest.digitalocean.com/)
 
 * Fork this repository (Click the Fork button in the top right of this page)
 * Clone your fork to your local machine
@@ -48,7 +51,14 @@ ACK # acknowledgement, i.e. agreed/accepted change
 * And congratulations! You're all done. Have fun!
 * You can resolve any open issues or add some exciting features to this repository!!!
 
-## Happy Hacking
+
+## :warning: Disclaimer:
+This repo is to welcome beginners to Github and the opensource community by helping them learn how to make their first PR and contributions to open source!
+That said, only high-quality contributions and pull requests that add value to Open Source projects are part of the the [core values](https://hacktoberfest.digitalocean.com/details) of Hacktoberfest, so repositories like this one and others which allow users to quickly gain a PR toward completing the challenge might be excluded from the Hacktoberfest.
+So we highly recommend you to contribute in a meaningful way to other [Hacktoberfest issues](https://hacktoberfest.digitalocean.com/#projects) and not rely on this repository alone.
+
+
+## :star_struck: Awesome contributors:
 
 <a href="https://github.com/letskhabar/HacktoberFest-2020/graphs/contributors">
   <img src="https://contributors-img.web.app/image?repo=letskhabar/HacktoberFest-2020" />
