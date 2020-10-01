@@ -11,7 +11,7 @@ let cards = [
     ["Letskhabar", "./img/letskhabar.png", "We make IT happens", "https://github.com/letskhabar"],
     ["Vimal Kumar", "./img/vimalverma558.jpg", "Web Developer and designer", "https://github.com/vimalverma558"],
     ["Coder nibba", "./img/codernibba.gif", "In relationship with codernibbi", "https://github.com/codernibba"],
-
+    ["Vaibhav Goel", "./img/GoelVaibhav009.jpg", "Mobile & Web Developer", "https://github.com/GoelVaibhav009"],
 
     
 ]
