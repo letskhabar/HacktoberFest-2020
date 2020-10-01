@@ -13,6 +13,7 @@ let cards = [
     ["Coder nibba", "./img/codernibba.gif", "In relationship with codernibbi", "https://github.com/codernibba"],
     ["Avinash Kumar Jha", "./img/avinash.jpg", "Student", "https://github.com/avinashjha11"],
     ["Prithviraj Biswas", "./img/prithvirajbytes.jpg", "CoDeLiKeHeLl", "https://github.com/prithvirajbytes"],
+    ["Vikas shah", "./img/vik.jpg", "Student", "https://github.com/vikasah0"],
 
 
     
