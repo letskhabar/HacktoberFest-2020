@@ -11,11 +11,14 @@ let cards = [
     ["Letskhabar", "./img/letskhabar.png", "We make IT happens", "https://github.com/letskhabar"],
     ["Vimal Kumar", "./img/vimalverma558.jpg", "Web Developer and designer", "https://github.com/vimalverma558"],
     ["Coder nibba", "./img/codernibba.gif", "In relationship with codernibbi", "https://github.com/codernibba"],
+    ["Vaibhav Goel", "./img/GoelVaibhav009.jpg", "Mobile & Web Developer", "https://github.com/GoelVaibhav009"],
     ["Avinash Kumar Jha", "./img/avinash.jpg", "Student", "https://github.com/avinashjha11"],
     ["Prithviraj Biswas", "./img/prithvirajbytes.jpg", "CoDeLiKeHeLl", "https://github.com/prithvirajbytes"],
     ["Vikas shah", "./img/vik.jpg", "Student", "https://github.com/vikasah0"],
     ["Kory Freese", "./img/callmekory.png", "Student", "https://github.com/callmekory"],
-    
+    ["Subodh Aryal", "./img/a$ub0dh.jpg", "Let's Creating", "https://github.com/asubodh"],
+    ["yaswanth", "./img/Screenshot (45).png", "Student", "https://github.com/bakiyaswanth"]
+
 
 
     
