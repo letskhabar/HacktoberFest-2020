@@ -36,12 +36,6 @@ img{
     border: 10px solid rgb(121, 118, 118);
 }
 
-img:hover{
-    position: relative;
-    width: 400px;
-    height: 400px;
-}
-
 .footer{
     background-color: #ff8c56;
     padding: 20px;
