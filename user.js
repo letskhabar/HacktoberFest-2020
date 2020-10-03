@@ -17,10 +17,11 @@ let cards = [
     ["Vikas shah", "./img/vik.jpg", "Student", "https://github.com/vikasah0"],
     ["Kory Freese", "./img/callmekory.png", "Student", "https://github.com/callmekory"],
     ["Subodh Aryal", "./img/a$ub0dh.jpg", "Let's Creating", "https://github.com/asubodh"],
-    ["yaswanth", "./img/Screenshot (45).png", "Student", "https://github.com/bakiyaswanth"]
-    ["Namish kumar", "./img/username.png", "Student", "https://github.com/namish25"]
-
-
+    ["Namish kumar", "./img/username.png", "Student", "https://github.com/namish25"],
+    ["yaswanth", "./img/Screenshot (45).png", "Student", "https://github.com/bakiyaswanth"],
+    ["drshyamshankar", "./img/username.png", "student", "https://github.com/drshyamshankar"],
+    ["naute22", "./img/username.png", "student", "https://github.com/naute22"],
+    ["ravi kumar", "./img/username.png", "Student", "https://github.com/letskhabar"]
 
     
 ]
