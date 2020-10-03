@@ -1,4 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
 body {
+    font-family: 'Roboto', sans-serif;
     text-align: center;
     background-image: url("./img/bg.jpg");
     padding: 0;
@@ -25,11 +28,18 @@ body {
     margin: 10px;
     border-radius: 10%;
 }
+
 img{
     width: 350px;
     height: 350px;
     border-radius: 10%;
     border: 10px solid rgb(121, 118, 118);
+}
+
+img:hover{
+    position: relative;
+    width: 400px;
+    height: 400px;
 }
 
 .footer{
