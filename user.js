@@ -18,8 +18,10 @@ let cards = [
     ["Kory Freese", "./img/callmekory.png", "Student", "https://github.com/callmekory"],
     ["Subodh Aryal", "./img/a$ub0dh.jpg", "Let's Creating", "https://github.com/asubodh"],
     ["yaswanth", "./img/Screenshot (45).png", "Student", "https://github.com/bakiyaswanth"],
+    ["drshyamshankar", "./img/username.png", "student", "https://github.com/drshyamshankar"],
     ["naute22", "./img/username.png", "student", "https://github.com/naute22"],
     ["ravi kumar", "./img/username.png", "Student", "https://github.com/letskhabar"]
+
 
 
 
