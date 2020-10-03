@@ -27,6 +27,7 @@ body {
     height: 500px;
     margin: 10px;
     border-radius: 10%;
+    box-shadow: 1px 1px 5px black;
 }
 
 img{
