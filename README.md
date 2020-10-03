@@ -8,7 +8,7 @@
 # HacktoberFest-2020
 Open source is changing the world - one pull request at a time.  Join our global community for the yearly celebration of open source software!
 
-## What is Hacktoberfest?
+## :octocat: What is Hacktoberfest?
 A month-long celebration from October 1st - 31st sponsored by [Digital Ocean](https://hacktoberfest.digitalocean.com/) and GitHub to get people involved in Open Source. Create your very first pull request to any public repository on GitHub and contribute to the open source developer community.
 [https://hacktoberfest.digitalocean.com/](https://hacktoberfest.digitalocean.com/)
 
@@ -18,7 +18,10 @@ A month-long celebration from October 1st - 31st sponsored by [Digital Ocean](ht
 ```bash
 git clone https://github.com/your-username/HacktoberFest-2020.git
 ```
-* Open HacktoberFest-2020 Folder in your Favorite text editor
+* Open HacktoberFest-2020 Folder in your Terminal or Command prompt using the command below
+
+cd HacktoberFest-2020
+
 * Create a branch
 
 ```bash
@@ -32,7 +35,7 @@ git checkout -b branch-name
 
 ```bash
 git add .
-git commit -m 'Commit message'
+git commit -m "Commit message"
 git push origin branch-name
 ```
 * Create a new pull request from your forked repository (Click the ```New Pull Request``` button located at the top of your repository)
