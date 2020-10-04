@@ -24,6 +24,7 @@ let cards = [
     ["ravi kumar", "./img/username.png", "Student", "https://github.com/letskhabar"]
     ["Aditya Gite", "./img/aditya-gite-04.jpg", "Kid", "https://github.com/aditya-gite-04"]
     ["Bruno Almeida", "./img/Brunopbb.png", "Student", "https://github.com/Brunopbb"],
+    ["Anthony Morris", "./img/Anthony-Morris.png", "SE", "https://github.com/TonyDMorris"],
 
 
     
