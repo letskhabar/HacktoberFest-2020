@@ -7,7 +7,7 @@ let cards = [
 
     ["Your Name", "./img/username.png", "Your Bio", "https://github.com/letskhabar"],
     ["Your Name", "./img/username.png", "Your Bio", "https://github.com/letskhabar"],
-    ["Your Name", "./img/username.png", "Your Bio", "https://github.com/letskhabar"],
+    ["Muteen Kundangar", "./img/web3.jpg", "Obviously a IT student", "https://github.com/letskhabar"],
     ["Letskhabar", "./img/letskhabar.png", "We make IT happens", "https://github.com/letskhabar"],
     ["Vimal Kumar", "./img/vimalverma558.jpg", "Web Developer and designer", "https://github.com/vimalverma558"],
     ["Coder nibba", "./img/codernibba.gif", "In relationship with codernibbi", "https://github.com/codernibba"],
@@ -23,6 +23,8 @@ let cards = [
     ["naute22", "./img/username.png", "student", "https://github.com/naute22"],
     ["ravi kumar", "./img/username.png", "Student", "https://github.com/letskhabar"]
     ["Aditya Gite", "./img/aditya-gite-04.jpg", "Kid", "https://github.com/aditya-gite-04"]
+    ["Bruno Almeida", "./img/Brunopbb.png", "Student", "https://github.com/Brunopbb"],
+
 
     
 ]

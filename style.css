@@ -1,4 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
 body {
+    font-family: 'Roboto', sans-serif;
     text-align: center;
     background-image: url("./img/bg.jpg");
     padding: 0;
@@ -24,7 +27,9 @@ body {
     height: 500px;
     margin: 10px;
     border-radius: 10%;
+    box-shadow: 1px 1px 5px black;
 }
+
 img{
     width: 350px;
     height: 350px;
