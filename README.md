@@ -18,9 +18,12 @@ A month-long celebration from October 1st - 31st sponsored by [Digital Ocean](ht
 ```bash
 git clone https://github.com/your-username/HacktoberFest-2020.git
 ```
+
 * Open HacktoberFest-2020 Folder in your Terminal or Command prompt using the command below
 
+```bash
 cd HacktoberFest-2020
+```
 
 * Create a branch
 
