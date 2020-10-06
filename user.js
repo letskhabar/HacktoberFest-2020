@@ -28,8 +28,8 @@ let cards = [
     ["V-50", "./img/username.png", "Student", "https://github.com/v-50"],
     ["Kunal Bhatia", "./img/kunalbhatia18.jpg", "Student ", "https://github.com/kunalbhatia18"],
     ["Wisnu Febriadi", "./img/wfebriad.jpg", "Student ", "https://github.com/wfebriad"]
-
-    
+    ["Mohammad Quanit", "./img/quanit.jpg", "Software Engineer", "https://github.com/mohammad-quanit"],
+    	
 ]
 
 
