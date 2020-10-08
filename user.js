@@ -27,11 +27,13 @@ let cards = [
     ["Anthony Morris", "./img/Anthony-Morris.png", "SE", "https://github.com/TonyDMorris"],
     ["V-50", "./img/username.png", "Student", "https://github.com/v-50"],
     ["Kunal Bhatia", "./img/kunalbhatia18.jpg", "Student ", "https://github.com/kunalbhatia18"],
+    ["Mohammad Quanit", "./img/quanit.jpg", "Software Engineer", "https://github.com/mohammad-quanit"],
     ["Wisnu Febriadi", "./img/wfebriad.jpg", "Student ", "https://github.com/wfebriad"],
     ["Abhishek Kumar", "./img/Badge.png", "Web Developer and designer", "https://github.com/Abhishekkr93"]
 
 
     
+
 ]
 
 
