@@ -4,7 +4,7 @@ let cards = [
     //  ["Your Name", "Image URL(./img/username.png)", "Bio", "Your Github Link"],
     //  Bio should no longer than 50 characters, avoid using quotes(") to guarantee the format remains the same.
 
-    ["Chirag Jain", "./img/ChiragJain123.png", "A Passionate Coder who wants to explore each and every thing related to tech.", "https://github.com/ChiragJain123"],
+    
     ["Your Name", "./img/username.png", "Your Bio", "https://github.com/letskhabar"],
     ["Your Name", "./img/username.png", "Your Bio", "https://github.com/letskhabar"],
     ["Muteen Kundangar", "./img/web3.jpg", "Obviously a IT student", "https://github.com/letskhabar"],
@@ -33,10 +33,13 @@ let cards = [
     ["Mohammad Quanit", "./img/quanit.jpg", "Software Engineer", "https://github.com/mohammad-quanit"],
     ["Abhishek Kumar", "./img/Badge.png", "Web Developer and designer", "https://github.com/Abhishekkr93"],
     ["Pasindu P Konghawaththa", "./img/MasterBrian99.jpg", "Web Developer", "https://github.com/MasterBrian99"],
+    ["Chirag Jain", "./img/ChiragJain123.png", "A Passionate Coder who wants to explore each and every thing related to tech.", "https://github.com/ChiragJain123"],
+    ["Tio Tobing","./img/tiotobing.png", "Today is Technology", "https://github.com/tiotobing"],
     ["Azri Akmal Kurniawan", "./img/azriakmalk.jpg", "Web Developer and Software Engineering", "https://github.com/azriakmalk"]
 
 
     
+
 
 ]
 
