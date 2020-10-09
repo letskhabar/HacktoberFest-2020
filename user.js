@@ -32,8 +32,8 @@ let cards = [
     ["Tanishq Sehra","./img/tanishq1502.jpg","B.E CSE Student","https://github.com/tanishq1502"],
     ["Mohammad Quanit", "./img/quanit.jpg", "Software Engineer", "https://github.com/mohammad-quanit"],
     ["Abhishek Kumar", "./img/Badge.png", "Web Developer and designer", "https://github.com/Abhishekkr93"],
-    ["Pasindu P Konghawaththa", "./img/MasterBrian99.jpg", "Web Developer", "https://github.com/MasterBrian99"]
-
+    ["Pasindu P Konghawaththa", "./img/MasterBrian99.jpg", "Web Developer", "https://github.com/MasterBrian99"],
+    ["Azri Akmal Kurniawan", "./img/azriakmalk.jpg", "Web Developer and Software Engineering", "https://github.com/azriakmalk"]
 
 
     
