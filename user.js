@@ -28,6 +28,7 @@ let cards = [
     ["V-50", "./img/username.png", "Student", "https://github.com/v-50"],
     ["Kunal Bhatia", "./img/kunalbhatia18.jpg", "Student ", "https://github.com/kunalbhatia18"],
     ["Wisnu Febriadi", "./img/wfebriad.jpg", "Student ", "https://github.com/wfebriad"],
+    ["Dwiky Chandra", "./img/dwikychandra21.jpg", "Frontend Developer", "https://github.com/dwikychandra21"],
     ["Harshita Raj", "./img/Harshita248.jpg", "An aspiring WebDev", "https://github.com/Harshita248"],
     ["Tanishq Sehra","./img/tanishq1502.jpg","B.E CSE Student","https://github.com/tanishq1502"],
     ["Mohammad Quanit", "./img/quanit.jpg", "Software Engineer", "https://github.com/mohammad-quanit"],
