@@ -28,6 +28,7 @@ let cards = [
     ["V-50", "./img/username.png", "Student", "https://github.com/v-50"],
     ["Kunal Bhatia", "./img/kunalbhatia18.jpg", "Student ", "https://github.com/kunalbhatia18"],
     ["Wisnu Febriadi", "./img/wfebriad.jpg", "Student ", "https://github.com/wfebriad"],
+    ["Dwiky Chandra", "./img/dwikychandra21.jpg", "Frontend Developer", "https://github.com/dwikychandra21"],
     ["Harshita Raj", "./img/Harshita248.jpg", "An aspiring WebDev", "https://github.com/Harshita248"],
     ["Tanishq Sehra","./img/tanishq1502.jpg","B.E CSE Student","https://github.com/tanishq1502"],
     ["Mohammad Quanit", "./img/quanit.jpg", "Software Engineer", "https://github.com/mohammad-quanit"],
@@ -35,12 +36,14 @@ let cards = [
     ["Pasindu P Konghawaththa", "./img/MasterBrian99.jpg", "Web Developer", "https://github.com/MasterBrian99"],
     ["Chirag Jain", "./img/ChiragJain123.png", "A Passionate Coder who wants to explore each and every thing related to tech.", "https://github.com/ChiragJain123"],
     ["Tio Tobing","./img/tiotobing.png", "Today is Technology", "https://github.com/tiotobing"],
-    ["Azri Akmal Kurniawan", "./img/azriakmalk.jpg", "Web Developer and Software Engineering", "https://github.com/azriakmalk"]
-    ["Mohd Fahad Khan", "./img/fahad.jpg", "Full Stack Software Developer", "https://github.com/codevfahad"]
+    ["Azri Akmal Kurniawan", "./img/azriakmalk.jpg", "Web Developer and Software Engineering", "https://github.com/azriakmalk"],
+    ["Mohd Fahad Khan", "./img/fahad.jpg", "Full Stack Software Developer", "https://github.com/codevfahad"],
+    ["Carolline Souza", "./img/carolladss.jpg", "Front-End Developer Student", "https://github.com/carolladss"],
+
 
     
 
-
+// Don't Forget to add comma in Last
 ]
 
 
