@@ -36,9 +36,9 @@ let cards = [
     ["Pasindu P Konghawaththa", "./img/MasterBrian99.jpg", "Web Developer", "https://github.com/MasterBrian99"],
     ["Chirag Jain", "./img/ChiragJain123.png", "A Passionate Coder who wants to explore each and every thing related to tech.", "https://github.com/ChiragJain123"],
     ["Tio Tobing","./img/tiotobing.png", "Today is Technology", "https://github.com/tiotobing"],
-    ["Azri Akmal Kurniawan", "./img/azriakmalk.jpg", "Web Developer and Software Engineering", "https://github.com/azriakmalk"]
-    ["Carolline Souza", "./img/carolladss.jpg", "Front-End Developer Student", "https://github.com/carolladss"]
-
+    ["Azri Akmal Kurniawan", "./img/azriakmalk.jpg", "Web Developer and Software Engineering", "https://github.com/azriakmalk"],
+    ["Carolline Souza", "./img/carolladss.jpg", "Front-End Developer Student", "https://github.com/carolladss"],
+    ["Simone Puhl", "./img/username.png", "Front end / Web Developer, Cacti & Cat mom who loves cheeseburgers", "https://github.com/persimone"],
     
 
 
