@@ -43,6 +43,8 @@ let cards = [
     ["Carolline Souza", "./img/carolladss.jpg", "Front-End Developer Student", "https://github.com/carolladss"],
     ["Cormac Krum","./img/cormacKrum.jpg","You Know Who I Am","https://github.com/CormacKrum"],
     ["Andrean Novan","./img/andreanz22.jpg","Web Dev","https://github.com/andreanz22"],
+    ["Lucky Sopyantoro","./img/luckysopyantoro.jpg","Android Developer","https://github.com/luckysopyantoro"],
+
 
 
     
