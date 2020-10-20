@@ -4,7 +4,7 @@ let cards = [
     //  ["Your Name", "Image URL(./img/username.png)", "Bio", "Your Github Link"],
     //  Bio should no longer than 50 characters, avoid using quotes(") to guarantee the format remains the same.
 
-    
+
     ["Your Name", "./img/username.png", "Your Bio", "https://github.com/letskhabar"],
     ["Your Name", "./img/username.png", "Your Bio", "https://github.com/letskhabar"],
     ["Muteen Kundangar", "./img/web3.jpg", "Obviously a IT student", "https://github.com/letskhabar"],
@@ -38,12 +38,17 @@ let cards = [
     ["Chirag Jain", "./img/ChiragJain123.png", "A Passionate Coder who wants to explore each and every thing related to tech.", "https://github.com/ChiragJain123"],
     ["Tio Tobing","./img/tiotobing.png", "Today is Technology", "https://github.com/tiotobing"],
     ["Azri Akmal Kurniawan", "./img/azriakmalk.jpg", "Web Developer and Software Engineering", "https://github.com/azriakmalk"],
+    ["Simone Puhl", "./img/username.png", "Front end / Web Developer, Cacti & Cat mom who loves cheeseburgers", "https://github.com/persimone"],
     ["Mohd Fahad Khan", "./img/fahad.jpg", "Full Stack Software Developer", "https://github.com/codevfahad"],
     ["Carolline Souza", "./img/carolladss.jpg", "Front-End Developer Student", "https://github.com/carolladss"],
     ["Cormac Krum","./img/cormacKrum.jpg","You Know Who I Am","https://github.com/CormacKrum"],
-    ["Simone Puhl", "./img/persimone.jpg", "Front end / Web Developer, Cacti & Cat mom who loves cheeseburgers", "https://github.com/persimone"],
-    
-
+    ["Andrean Novan","./img/andreanz22.jpg","Web Dev","https://github.com/andreanz22"],
+    ["Lucky Sopyantoro","./img/luckysopyantoro.jpg","Android Developer","https://github.com/luckysopyantoro"],
+    ["Prashant Pandey","./img/prashant-pandey.JPG","Software Engineer","https://github.com/Prashant-Pandey"],
+    ["Fifuhoobs","./img/fifuhoobs.png","Student","https://github.com/nikhilsourav"],
+    ["Ashutosh Joshi", "./img/ashutosh pic.jpg","Web Devlopment","https://github.com/iAshutosh-joshi"],
+    ["Sonali", "./img/Sonali.jpeg","Web Developer","https://github.com/sonali12920"],
+    ["Simone Puhl", "./img/username.png", "Front end / Web Developer, Cacti & Cat mom who loves cheeseburgers", "https://github.com/persimone"],
 // Don't Forget to add comma in Last
 ]
 
