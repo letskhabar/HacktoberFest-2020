@@ -62,7 +62,7 @@ ACK # acknowledgement, i.e. agreed/accepted change
 This repo is to welcome beginners to Github and the opensource community by helping them learn how to make their first PR and contributions to open source!
 That said, only high-quality contributions and pull requests that add value to Open Source projects are part of the the [core values](https://hacktoberfest.digitalocean.com/details) of Hacktoberfest, so repositories like this one and others which allow users to quickly gain a PR toward completing the challenge might be excluded from the Hacktoberfest.
 So we highly recommend you to contribute in a meaningful way to other [Hacktoberfest issues](https://hacktoberfest.digitalocean.com/#projects) and not rely on this repository alone.
-
+Thanks everyone
 
 ## :star_struck: Awesome contributors:
 
@@ -71,3 +71,4 @@ So we highly recommend you to contribute in a meaningful way to other [Hacktober
 </a>
 
 Made with [contributors-img](https://contributors-img.web.app).
+I am not a bot
