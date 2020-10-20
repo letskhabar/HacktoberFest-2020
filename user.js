@@ -47,7 +47,7 @@ let cards = [
     ["Prashant Pandey","./img/prashant-pandey.JPG","Software Engineer","https://github.com/Prashant-Pandey"],
     ["Fifuhoobs","./img/fifuhoobs.png","Student","https://github.com/nikhilsourav"],
     ["Ashutosh Joshi", "./img/ashutosh pic.jpg","Web Devlopment","https://github.com/iAshutosh-joshi"],
-
+    ["Sonali", "./img/Sonali.jpeg","Web Developer","https://github.com/sonali12920"],
 
 
 
