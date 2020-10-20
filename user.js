@@ -49,10 +49,6 @@ let cards = [
     ["Ashutosh Joshi", "./img/ashutosh pic.jpg","Web Devlopment","https://github.com/iAshutosh-joshi"],
     ["Sonali", "./img/Sonali.jpeg","Web Developer","https://github.com/sonali12920"],
     ["Simone Puhl", "./img/username.png", "Front end / Web Developer, Cacti & Cat mom who loves cheeseburgers", "https://github.com/persimone"],
-
-
-
-
 // Don't Forget to add comma in Last
 ]
 
