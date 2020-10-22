@@ -8,7 +8,7 @@
 # HacktoberFest-2020
 Open source is changing the world - one pull request at a time.  Join our global community for the yearly celebration of open source software!
 
-## What is Hacktoberfest?
+## :octocat: What is Hacktoberfest?
 A month-long celebration from October 1st - 31st sponsored by [Digital Ocean](https://hacktoberfest.digitalocean.com/) and GitHub to get people involved in Open Source. Create your very first pull request to any public repository on GitHub and contribute to the open source developer community.
 [https://hacktoberfest.digitalocean.com/](https://hacktoberfest.digitalocean.com/)
 
@@ -18,7 +18,13 @@ A month-long celebration from October 1st - 31st sponsored by [Digital Ocean](ht
 ```bash
 git clone https://github.com/your-username/HacktoberFest-2020.git
 ```
-* Open HacktoberFest-2020 Folder in your Favorite text editor
+
+* Open HacktoberFest-2020 Folder in your Terminal or Command prompt using the command below
+
+```bash
+cd HacktoberFest-2020
+```
+
 * Create a branch
 
 ```bash
@@ -32,7 +38,7 @@ git checkout -b branch-name
 
 ```bash
 git add .
-git commit -m 'Commit message'
+git commit -m "Commit message"
 git push origin branch-name
 ```
 * Create a new pull request from your forked repository (Click the ```New Pull Request``` button located at the top of your repository)
@@ -56,7 +62,7 @@ ACK # acknowledgement, i.e. agreed/accepted change
 This repo is to welcome beginners to Github and the opensource community by helping them learn how to make their first PR and contributions to open source!
 That said, only high-quality contributions and pull requests that add value to Open Source projects are part of the the [core values](https://hacktoberfest.digitalocean.com/details) of Hacktoberfest, so repositories like this one and others which allow users to quickly gain a PR toward completing the challenge might be excluded from the Hacktoberfest.
 So we highly recommend you to contribute in a meaningful way to other [Hacktoberfest issues](https://hacktoberfest.digitalocean.com/#projects) and not rely on this repository alone.
-
+Thanks everyone
 
 ## :star_struck: Awesome contributors:
 
@@ -65,3 +71,4 @@ So we highly recommend you to contribute in a meaningful way to other [Hacktober
 </a>
 
 Made with [contributors-img](https://contributors-img.web.app).
+I am not a bot
