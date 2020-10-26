@@ -50,8 +50,14 @@ let cards = [
     ["Sonali", "./img/Sonali.jpeg","Web Developer","https://github.com/sonali12920"],
     ["Simone Puhl", "./img/username.png", "Front end / Web Developer, Cacti & Cat mom who loves cheeseburgers", "https://github.com/persimone"],
     ["Reza Alamsyah", "./img/Reas-19.png", "Android developer, Nothing special on me", "https://github.com/Reas-19"],
+    ["Om Sinha", "./img/ProfilePic.png", "Just starting open source", "https://github.com/DeathcallXD"],
     ["Kuroyza", "./img/kuroyza.jpg", "A full stack developer who enjoys watching anime", "https://github.com/kuroyza"],
+  
+  
+  
+  
     // Don't Forget to add comma in Last
+
 ]
 
 
