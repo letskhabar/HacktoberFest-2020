@@ -57,7 +57,7 @@ let cards = [
     ["Muhammad ALiyul Murtadlo", "./img/username.png", "Student", "https://github.com/mmdiyul"],
     ["Kashish Goel", "./img/kashish-goel.jpg", "Student", "https://github.com/kashish-goel"],
     ["Arslan Siddique","./img/ARSHLAN.jpg", "Student", "https://github.com/ArshlanSiddique"],
-  
+    ["Arham Aalam","./img/Arham-Aalam.jpg", "Developer", "https://github.com/Arham-Aalam"],
   
   
     // Don't Forget to add comma in Last
