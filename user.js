@@ -5,6 +5,7 @@ let cards = [
     //  Bio should no longer than 50 characters, avoid using quotes(") to guarantee the format remains the same.
 
 
+
     ["Your Name", "./img/username.png", "Your Bio", "https://github.com/letskhabar"],
     ["Your Name", "./img/username.png", "Your Bio", "https://github.com/letskhabar"],
     ["Muteen Kundangar", "./img/web3.jpg", "Obviously a IT student", "https://github.com/letskhabar"],
@@ -49,7 +50,18 @@ let cards = [
     ["Ashutosh Joshi", "./img/ashutosh pic.jpg","Web Devlopment","https://github.com/iAshutosh-joshi"],
     ["Sonali", "./img/Sonali.jpeg","Web Developer","https://github.com/sonali12920"],
     ["Simone Puhl", "./img/username.png", "Front end / Web Developer, Cacti & Cat mom who loves cheeseburgers", "https://github.com/persimone"],
-// Don't Forget to add comma in Last
+    ["Reza Alamsyah", "./img/Reas-19.png", "Android developer, Nothing special on me", "https://github.com/Reas-19"],
+    ["Om Sinha", "./img/ProfilePic.png", "Just starting open source", "https://github.com/DeathcallXD"],
+    ["Kuroyza", "./img/kuroyza.jpg", "A full stack developer who enjoys watching anime", "https://github.com/kuroyza"],
+    ["Felipe Rodrigues", "Image URL(./img/feliperodrigues.png)", "Student", "https://github.com/felipprodrigues"],
+    ["Muhammad ALiyul Murtadlo", "./img/username.png", "Student", "https://github.com/mmdiyul"],
+    ["Kashish Goel", "./img/kashish-goel.jpg", "Student", "https://github.com/kashish-goel"],
+    ["Arslan Siddique","./img/ARSHLAN.jpg", "Student", "https://github.com/ArshlanSiddique"],
+  
+  
+  
+    // Don't Forget to add comma in Last
+
 ]
 
 
