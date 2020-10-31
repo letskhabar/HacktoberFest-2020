@@ -56,6 +56,7 @@ let cards = [
     ["Felipe Rodrigues", "Image URL(./img/feliperodrigues.png)", "Student", "https://github.com/felipprodrigues"],
     ["Muhammad ALiyul Murtadlo", "./img/username.png", "Student", "https://github.com/mmdiyul"],
     ["Kashish Goel", "./img/kashish-goel.jpg", "Student", "https://github.com/kashish-goel"],
+    ["Arslan Siddique","./img/ARSHLAN.jpg", "Student", "https://github.com/ArshlanSiddique"],
   
   
   
