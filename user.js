@@ -42,7 +42,7 @@ let cards = [
     ["Simone Puhl", "./img/username.png", "Front end / Web Developer, Cacti & Cat mom who loves cheeseburgers", "https://github.com/persimone"],
     ["Mohd Fahad Khan", "./img/fahad.jpg", "Full Stack Software Developer", "https://github.com/codevfahad"],
     ["Carolline Souza", "./img/carolladss.jpg", "Front-End Developer Student", "https://github.com/carolladss"],
-    ["Jayant Goel","./img/JayantGoel001.jpg","You Know Who I Am","https://github.com/JayantGoel001"],
+    ["Jayant Goel","./img/JayantGoel001.jpg","You Know Who I Am","https://github.com/JayantHGoel001"],
     ["Andrean Novan","./img/andreanz22.jpg","Web Dev","https://github.com/andreanz22"],
     ["Lucky Sopyantoro","./img/luckysopyantoro.jpg","Android Developer","https://github.com/luckysopyantoro"],
     ["Prashant Pandey","./img/prashant-pandey.JPG","Software Engineer","https://github.com/Prashant-Pandey"],
